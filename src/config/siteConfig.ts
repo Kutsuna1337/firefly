@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Blog~",
 
 	// 站点 URL
-	site_url: "https://Kutsuna1337.github.io/Firefly/",
+	site_url: "https://Kutsuna1337.github.io/firefly",
 
 	// 站点描述
 	description:
