@@ -52,9 +52,9 @@ const adapter = process.env.CF_WORKERS
 
 // https://astro.build/config
 export default defineConfig({
-	site: siteConfig.site_url,
+	site: "https://kutsuna1337.github.io",
 
-	base: "/",
+	base: "/firefly/",
 	trailingSlash: "always",
 
 	adapter,
