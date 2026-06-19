@@ -54,7 +54,7 @@ const adapter = process.env.CF_WORKERS
 export default defineConfig({
 	site: "https://kutsuna1337.github.io",
 
-	base: "/firefly/",
+	base: "/firefly",
 	trailingSlash: "always",
 
 	adapter,
